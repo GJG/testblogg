@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Halló heimur!"
-date:   2018-09-07 11:27:50 +0000
+date:   2018-09-07 11:45:00 +0000
 categories: jekyll update
 ---
 ### Nýr texti kemur hér .... <br>
